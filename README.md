@@ -29,7 +29,6 @@
 - **Enhancing my problem-solving skills with daily DSA challenges**
 
 ### 📫 Connect with Me
-- GitHub: [GitHub](https://github.com/ak804670)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/anish-kumar-thakur-478001185/)
 - Email: [ak804670@gmail.com]
 - Discord: ak804670
