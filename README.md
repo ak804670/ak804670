@@ -19,7 +19,7 @@
 ### 📌 Projects
 🔹 **Dev Tool Web App** - A full-fledged Devlopment essential tool platform [world of dev tool](https://worldofdevtool.world/) using **React & Node.js**.
 
-🔹 **AI Email Response App** - Automating email responses with **AI-powered insights** under development.
+🔹 **I Retrieval-Augmented Generation (RAG) System** - Developed an AI-powered RAG system for text documents using Google Embedding Model, OpenAI, OpenRouter, langchain ,Supabase, and Node.js.
 
 🔹 **Jenkins CI/CD Pipeline** - Automating deployments to **VPS from GitHub**.
 
