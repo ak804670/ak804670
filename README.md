@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | Passionate about Web & Backend Development**
 
 ### 💻 About Me
-- 🌍 Full-stack developer with expertise in **React, Node.js, and Go**.
+- 🌍 Full-stack developer with expertise in **React, NodeJS**.
 - 💡 Enthusiastic about **backend development, DevOps, and AI integrations**.
 - 📈 Focused on **building scalable applications** and improving performance.
 - 🎯 Currently learning **Computer Science fundamentals** to strengthen my core skills.
