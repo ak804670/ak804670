@@ -27,6 +27,7 @@
 - **Building a strong CS foundation** (DSA, OS, Networks, DBMS, System Design)
 - **Mastering Go for backend development**
 - **Enhancing my problem-solving skills with daily DSA challenges**
+-  **Mastering Svelte for frontend development**
 
 ### 📫 Connect with Me
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/anish-kumar-thakur-478001185/)
